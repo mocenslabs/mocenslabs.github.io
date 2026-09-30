@@ -1,4 +1,4 @@
 export const siteConfig = {
     name: "Mocens Labs",
-    url: "https://tudominio.com"
+    url: "https://mocenslabs.github.io/"
 }
